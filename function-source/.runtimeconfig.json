@@ -1,8 +1,0 @@
-{
-  "firebase": {
-    "projectId": "tchat-526d5",
-    "databaseURL": "https://tchat-526d5.firebaseio.com",
-    "storageBucket": "tchat-526d5.appspot.com",
-    "locationId": "us-central"
-  }
-}
